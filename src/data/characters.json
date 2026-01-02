@@ -1,0 +1,30 @@
+{
+  "The Reflector": {
+    "image": "spegelbararen_4.png",
+    "text": "<b>Jungian archetype:</b> The Self (wholeness and reflection) <br> <b>Civic role:</b> The reflective citizen <br> <b>Values:</b> Insight, Empathy, Context <br> <b>Shadow:</b> Sees the complexity but hesitates to act. <br> <b>Gift:</b> Creates understanding where others get stuck in polarization. <br> <b>Message:</b> Reflection is not passivity. It is a way of taking the world seriously. <br> <b>After a few years:</b> Society has become deeply thoughtful. Understanding is high – but some decisions are delayed. <br> <b>Reflective question:</b> When a decision must be made quickly, do you often want to understand all consequences first, even if others already want to move on? <br> <b>Advice:</b> Choose one insight that feels clear enough and put it into action — adjustments can come later."
+  },
+  "The Burner": {
+    "image": "brannaren_1.png",
+    "text": "<b>Jungian archetype:</b> The Shadow (repressed power and change) <br> <b>Civic role:</b> The change driver <br> <b>Values:</b> Courage, Change, Authenticity <br> <b>Shadow:</b> Tears down before something new has been built. <br> <b>Gift:</b> Dares to say the unspeakable when the system has hardened. <br> <b>Message:</b> Anger is often care that hasn’t been heard. <br> <b>After a few years:</b> Society has changed quickly. Much is new — not everything is finished. <br> <b>Reflective question:</b> When something feels wrong, is your first impulse to speak up immediately rather than wait for consensus? <br> <b>Advice:</b> Aim your force at a clear next step so the change can hold over time."
+  },
+  "The Negotiator": {
+    "image": "maskmakaren.png",
+    "text": "<b>Jungian archetype:</b> The Persona (social adaptation) <br> <b>Civic role:</b> The social navigator <br> <b>Values:</b> Consensus, Social trust, Stability <br> <b>Shadow:</b> Avoids conflict even when it is needed. <br> <b>Gift:</b> Keeps the conversation alive when it would otherwise break down. <br> <b>Message:</b> Diplomacy is not lying — it is carrying relationships through difficult rooms. <br> <b>After a few years:</b> Society is stable and friendly — but some issues remain under the surface. <br> <b>Reflective question:</b> When a conflict arises, do you often try to calm the situation even if your own view has to step back? <br> <b>Advice:</b> Say what matters early and calmly — it often creates more safety than silence."
+  },
+  "The Archivist": {
+    "image": "arkivarien_3.png",
+    "text": "<b>Jungian archetype:</b> The Sage (knowledge and truth) <br> <b>Civic role:</b> The knowledge citizen <br> <b>Values:</b> Knowledge, Long-term thinking, Responsibility <br> <b>Shadow:</b> Is right, but without impact. <br> <b>Gift:</b> Preserves collective memory when others want to move on. <br> <b>Message:</b> Truth is not always popular, but it endures. <br> <b>After a few years:</b> Society knows what should have been done — sometimes only in hindsight. <br> <b>Reflective question:</b> Do you often want to understand the full background before you propose a solution? <br> <b>Advice:</b> Share your knowledge in smaller steps — action can happen even before everything is known."
+  },
+  "The Caretaker": {
+    "image": "caregiver_bararen.png",
+    "text": "<b>Jungian archetype:</b> The Caregiver (care and protection) <br> <b>Civic role:</b> The caring citizen <br> <b>Values:</b> Safety, Solidarity, Trust <br> <b>Shadow:</b> Carries too much, for too long. <br> <b>Gift:</b> Makes sure no one is left behind. <br> <b>Message:</b> Care is society’s quietest — but strongest — infrastructure. <br> <b>After a few years:</b> Society holds together — but those who carry the most risk becoming exhausted. <br> <b>Reflective question:</b> Do you often take extra responsibility when someone risks being left out? <br> <b>Advice:</b> Ask for relief in time — care becomes sustainable when it is shared."
+  },
+  "The Trickster": {
+    "image": "narrstrategen_trickster_2.png",
+    "text": "<b>Jungian archetype:</b> The Trickster (questioning and play) <br> <b>Civic role:</b> The questioning citizen <br> <b>Values:</b> Creativity, Transparency, Renewal <br> <b>Shadow:</b> Not taken seriously when it truly matters. <br> <b>Gift:</b> Exposes the absurdity of power without preaching. <br> <b>Message:</b> Laughter can open doors that anger closes. <br> <b>After a few years:</b> Society is creative and self-critical — sometimes longer than necessary. <br> <b>Reflective question:</b> Do you often use humor or irony to point out problems? <br> <b>Advice:</b> Let the joke be followed by a clear point so the insight remains."
+  },
+  "The Enforcer": {
+    "image": "ruler_styraren.jpeg",
+    "text": "<b>Jungian archetype:</b> The Ruler (order and control) <br> <b>Civic role:</b> The responsible citizen <br> <b>Values:</b> Order, Responsibility, Direction <br> <b>Shadow:</b> Control that suffocates what is alive. <br> <b>Gift:</b> Creates frameworks where others can act safely. <br> <b>Message:</b> Structure is not the opposite of freedom — it is its condition. <br> <b>After a few years:</b> Society is stable and well-organized — sometimes at the expense of spontaneity. <br> <b>Reflective question:</b> Do you feel a need to create clear boundaries when things get messy? <br> <b>Advice:</b> Always leave an opening — that’s where development can take shape."
+  }
+}

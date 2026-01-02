@@ -1,0 +1,396 @@
+[
+  {
+    "category": "Education",
+    "icon": "icon_education.png",
+    "scenario": "Results in the city’s lower secondary schools have begun to diverge. Teachers are expected to teach, de-escalate, document – and sometimes just get through the day. You must decide what school should feel like to attend every day.",
+    "options": [
+      {
+        "button": "Introduce clearer order and consequences",
+        "text": "Mobile phones are collected, late arrivals are followed up immediately, and adults are more visible in corridors. Rules become clear and equal for everyone.",
+        "feedback": "The school day gains firm structures, and many students feel unexpected relief in knowing exactly what applies. Classroom focus improves, but the climate becomes stricter and some quickly learn how to stretch the definition of being “on time.”\n\nCore: Structure and predictability over flexibility.\nRisk: Relationships and trust have less room, and school may feel more controlling than safe.",
+        "image": "education_onehandup.jpg",
+        "characters": {
+          "The Enforcer": 2,
+          "The Skeptic": 1,
+          "The Negotiator": 1,
+          "The Burner": 1
+        }
+      },
+      {
+        "button": "Expand student welfare and safety support",
+        "text": "More counselors, safety teams, and time for conversations help catch conflicts early and allow more students to stay through the whole day.",
+        "feedback": "School adopts a softer pace and more students feel there are adults who actually have time to listen. At the same time, balance is required so care does not crowd out teaching – sometimes it feels like there are more adults to talk to than group rooms to sit in.\n\nCore: Safety and presence over speed.\nRisk: Teaching time and focus may be squeezed, making learning goals harder to sustain.",
+        "image": "education_psychology.jpg",
+        "characters": {
+          "The Reflector": 2,
+          "The Caretaker": 2,
+          "The Burner": 1
+        }
+      },
+      {
+        "button": "Invest heavily in selected schools and classes",
+        "text": "Targeted resources are deployed: smaller groups, more adults, and close follow-up in a limited number of schools and classes.",
+        "feedback": "Where investments land, change is immediate: more lessons are completed and adults follow the same students across days. Elsewhere, comparisons grow in staff rooms – principals collect examples and someone jokes: “Maybe we should look a bit worse in the statistics too.” Focus shifts from teaching to proving need.\n\nCore: Impact where it burns most.\nRisk: Incentives to “look worse,” division between schools, and more energy spent on numbers than learning.",
+        "image": "education_oneonone.jpg",
+        "characters": {
+          "The Negotiator": 2,
+          "The Pragmatist": 1,
+          "The Enforcer": 1
+        }
+      },
+      {
+        "button": "Clear out projects and focus on teaching",
+        "text": "New initiatives are paused, meetings shortened, and parallel projects removed so teachers regain full lessons and catch up.",
+        "feedback": "Teachers gain working calm: they finish grading, avoid juggling three development tracks, and go home less behind. But when something doesn’t work – a class losing grip or a group needing a new approach – there’s no room to try alternatives. The answer becomes: “That sounds reasonable, but let’s stick with what we have.” Stability for adults, but teaching continues unchanged even when everyone senses it’s not landing.\n\nCore: Focus and execution over innovation.\nRisk: Powerlessness in daily work and difficulty adapting when needs change.",
+        "image": "education_class.jpg",
+        "characters": {
+          "The Archivist": 2,
+          "The Skeptic": 1,
+          "The Pragmatist": 1,
+          "The Burner": 1
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "Healthcare",
+    "icon": "icon_health.png",
+    "scenario": "Primary care centers are overloaded. Not everyone is acutely ill – many are worried, worn down, or have issues that don’t quite fit a form. You must decide what kind of care everyday life should be shaped by.",
+    "options": [
+      {
+        "button": "Make care fast and consistent",
+        "text": "Visits are standardized: shorter appointments, clear frames, and quick decisions so more people receive answers and move on.",
+        "feedback": "The system stops being constantly overloaded and flow becomes predictable. But what doesn’t fit the template struggles to be heard – vague symptoms are sent home repeatedly until someone eventually returns much sicker than the first time.\n\nCore: Efficiency over nuance.\nRisk: Serious conditions that aren’t obvious at first are missed, and trust erodes when people feel “processed.”",
+        "image": "health_clinic.jpg",
+        "characters": {
+          "The Archivist": 2,
+          "The Skeptic": 1,
+          "The Pragmatist": 1
+        }
+      },
+      {
+        "button": "Make care relational and long-term",
+        "text": "Care is built around continuity: the same doctor, longer conversations, and time to see the whole person and follow up over time.",
+        "feedback": "For many, care becomes safe and understandable – someone remembers, notices patterns, and catches what might otherwise slip by. But the system moves slower: for new issues, the first visit may take longer, and worry often lasts longer than necessary.\n\nCore: Safety over speed.\nRisk: Delayed help for new or fast-emerging problems, and growing queues as consultations lengthen.",
+        "image": "health_stetoscope.jpg",
+        "characters": {
+          "The Reflector": 2,
+          "The Caretaker": 2,
+          "The Burner": 1
+        }
+      },
+      {
+        "button": "Shift responsibility from care to the individual",
+        "text": "You invest in self-care, digital advice, and clear guidelines for when to seek care. Many receive quick help through apps and checklists.",
+        "feedback": "More people manage minor issues themselves and pressure decreases. But the line between “you can handle this” and “someone should look at this” becomes blurred – some wait too long and seek help too late, not because care is closed but because responsibility has shifted.\n\nCore: Independence over professional judgment.\nRisk: Serious problems are detected only once they’ve grown, and inequality increases when not everyone can interpret advice or advocate for their care.",
+        "image": "health_digital.jpg",
+        "characters": {
+          "The Trickster": 2,
+          "The Burner": 1,
+          "The Pragmatist": 1,
+          "The Skeptic": 1
+        }
+      }
+    ]
+  },
+  {
+    "category": "Infrastructure",
+    "icon": "icon_infrastructure.png",
+    "scenario": "A bridge is used by thousands every day. It is not acutely dangerous – but worn enough that no one fully relaxes when a heavy bus passes. You must decide how the city should live with the bridge.",
+    "options": [
+      {
+        "button": "Close the bridge completely in one go",
+        "text": "You shut the bridge entirely: barriers, construction cabins, and new routines. Everything is done at once for a safe, future-proof bridge.",
+        "feedback": "During the closure, people change favorite routes, switch jobs, and start saying “before the bridge” as a time reference. Everyday life slows with queues and detours – but when the bridge reopens, that subtle tension disappears every time a heavy bus rumbles across.\n\nCore: Total solution over daily flow.\nRisk: Major disruptions here and now can hit commerce, commuting, and trust hard – and some routines never fully recover.",
+        "image": "bridge_closed.png",
+        "characters": {
+          "The Enforcer": 2,
+          "The Archivist": 2,
+          "The Burner": 1,
+          "The Skeptic": 1,
+          "The Trickster": 1
+        }
+      },
+      {
+        "button": "Make the bridge as invisible as possible",
+        "text": "You repair in small steps, often at night. Traffic flows and routines remain while the bridge is kept alive through continuous maintenance.",
+        "feedback": "The bridge becomes like a municipal house pet: constantly cared for, never fully healthy. Everything continues almost as usual – but every heavy truck makes people glance at the bridge supports and wonder how many “small fixes” are needed before it becomes a big issue.\n\nCore: Minimal disruption to daily life.\nRisk: Long-term anxiety and accumulated debt; suddenly it may become urgent anyway, without the city having mentally adjusted.",
+        "image": "bridge_halfclosed.png",
+        "characters": {
+          "The Caretaker": 2,
+          "The Negotiator": 2,
+          "The Skeptic": 1,
+          "The Burner": 1,
+          "The Reflector": 1
+        }
+      },
+      {
+        "button": "Turn the bridge into a shared city project",
+        "text": "You renovate step by step, keep the bridge partly open, and make the process visible: explanatory signs, open meetings, and updates people can follow.",
+        "feedback": "More people feel included and understand why it takes time – even if complaints are many. But the project becomes a constant topic of conversation, and everyone practices living in “almost done”: the bridge is never fully closed, but never quite finished.\n\nCore: Participation and understanding over speed.\nRisk: Project fatigue and prolonged irritation; when everything drags on, trust can erode despite good intentions.",
+        "image": "bridge_talk.png",
+        "characters": {
+          "The Negotiator": 2,
+          "The Reflector": 2,
+          "The Trickster": 1,
+          "The Caretaker": 1,
+          "The Enforcer": 1
+        }
+      },
+      {
+        "button": "Wait until measurements say stop",
+        "text": "You monitor the bridge with sensors and let the numbers decide. As long as values stay green, no major interventions are made.",
+        "feedback": "It feels rational and data-driven – until closure comes overnight and everyone must improvise new routines instantly, as if the bridge had never been taken for granted. The plan is logical, but the shock is social.\n\nCore: Measurability over gut feeling.\nRisk: Sudden crisis without preparation, where daily life collapses faster than communication can keep up.",
+        "image": "bridge_crash.jpg",
+        "characters": {
+          "The Archivist": 2,
+          "The Trickster": 2,
+          "The Pragmatist": 1,
+          "The Burner": 1,
+          "The Skeptic": 1
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "Climate",
+    "icon": "icon_climate.png",
+    "scenario": "The city must reduce emissions quickly – not through visions, but through decisions that affect everyday life already next winter. You must decide what the climate transition should feel like to live with.",
+    "options": [
+      {
+        "button": "Introduce mandatory energy rules immediately",
+        "text": "You impose strict rules: lower indoor temperatures and limited heating in public buildings and apartment blocks. The effect is immediate and noticeable.",
+        "feedback": "Emissions drop right away and the city learns a new kind of everyday knowledge: which sweaters work at the office, which meeting rooms require extra coffee – and which cafés are “accidentally” warmer. But it’s felt in the body every evening, and households experience very different levels of “climate policy” in their living rooms.\n\nCore: Rapid emission cuts over comfort.\nRisk: Resistance and unequal burden; if people freeze in silence, legitimacy erodes even when the policy works.",
+        "image": "climate_sweater.jpg",
+        "characters": {
+          "The Enforcer": 2,
+          "The Burner": 2,
+          "The Skeptic": 1,
+          "The Pragmatist": 1,
+          "The Archivist": 1
+        }
+      },
+      {
+        "button": "Protect households – let the transition take time",
+        "text": "You support households with limited margins: subsidies for electricity bills, insulation, and heat pumps. Anxiety drops and more people can plan for winter.",
+        "feedback": "More people get a manageable winter and less stress. But emissions move slowly, and climate goals begin to feel like a major renovation: important – but not right now.\n\nCore: Social security over rapid curves.\nRisk: Delayed transition; as time passes without visible effect, the next step becomes harder, costlier, and more conflict-ridden.",
+        "image": "climate_insulation.jpg",
+        "characters": {
+          "The Caretaker": 2,
+          "The Reflector": 2,
+          "The Negotiator": 1,
+          "The Burner": 1,
+          "The Skeptic": 1
+        }
+      },
+      {
+        "button": "Make the climate transition a shared city project",
+        "text": "You set voluntary targets and neighborhood-based initiatives. Some areas go all in, share tips, and compare usage; others barely notice anything happening.",
+        "feedback": "Engagement becomes genuine where it exists and can spread. But the city’s curve becomes uneven, and the gap between “climate neighborhoods” and “business-as-usual neighborhoods” suddenly becomes very visible.\n\nCore: Community and motivation over coercion.\nRisk: Unequal impact and fragmentation; those already able do the most, while others fall behind and become harder to reach later.",
+        "image": "climate_neighborhood.jpg",
+        "characters": {
+          "The Negotiator": 2,
+          "The Reflector": 2,
+          "The Enforcer": 1,
+          "The Burner": 1,
+          "The Skeptic": 1
+        }
+      },
+      {
+        "button": "Start with the municipality’s own buildings",
+        "text": "You improve energy efficiency in schools, sports halls, and offices. Results are clear, measurable, and easy to showcase.",
+        "feedback": "Municipal buildings show polished results – and someone notes with satisfaction that the swimming hall has never felt so pleasant. But many wait to see when the transition will be felt at home, not just in presentations and public facilities.\n\nCore: Feasibility and example-setting over broad impact.\nRisk: A sense of symbolic politics; if residents don’t feel change in daily life, pressure and momentum for the next step decline.",
+        "image": "climate_offices.jpg",
+        "characters": {
+          "The Archivist": 2,
+          "The Pragmatist": 2,
+          "The Enforcer": 1,
+          "The Burner": 1,
+          "The Skeptic": 1
+        }
+      }
+    ]
+  },
+  {
+    "category": "Crime",
+    "icon": "icon_crime.png",
+    "scenario": "Insecurity is increasing in certain areas. Many crimes are small, but they affect everyday life and trust: bicycles disappear, windows are smashed, and people take detours home at night. You must decide how safety should be built into daily life.",
+    "options": [
+      {
+        "button": "Increase visible presence",
+        "text": "More uniforms appear on streets and squares, especially evenings and weekends. It becomes clearer that someone is watching when the kiosk closes.",
+        "feedback": "More people dare to walk home without calling someone. But everyday life becomes more monitored, and people begin to adapt: speaking more quietly, changing where they hang out, and thinking twice before doing something that might be misinterpreted.\n\nCore: Deterrence and order through presence.\nRisk: Reduced spontaneity and trust; safety may be traded for a sense of surveillance, especially among those who already feel scrutinized.",
+        "image": "crime_police_arm.jpg",
+        "characters": {
+          "The Enforcer": 2,
+          "The Caretaker": 2,
+          "The Trickster": 1,
+          "The Skeptic": 1,
+          "The Burner": 1
+        }
+      },
+      {
+        "button": "Build relationships long-term",
+        "text": "The same adults remain over time, learning names and routines. Fewer interventions, more conversations, and a presence that feels human.",
+        "feedback": "People feel recognized and seen in the square. But when something happens, it can feel like everything moves too slowly, and anxiety has time to grow before results appear.\n\nCore: Trust over rapid intervention.\nRisk: A test of patience during acute spikes; if results take time, people may lose hope and begin demanding tougher measures.",
+        "image": "crime_social.jpg",
+        "characters": {
+          "The Caretaker": 2,
+          "The Reflector": 2,
+          "The Pragmatist": 1,
+          "The Negotiator": 1,
+          "The Skeptic": 1
+        }
+      },
+      {
+        "button": "Invest in environment and structure",
+        "text": "You remove risk through design: better lighting, open spaces, cleared vegetation, and clear routines. Risk points are mapped and addressed.",
+        "feedback": "More people take shortcuts through the park again. But problems often move two blocks away, and another place becomes the new “avoid that spot” – safety turns into a logistical puzzle.\n\nCore: Prevention through place and design.\nRisk: Displacement effect; crime and insecurity move rather than decrease, making the hunt for the next “risk corner” endless.",
+        "image": "crime_open_area.jpg",
+        "characters": {
+          "The Archivist": 2,
+          "The Negotiator": 2,
+          "The Caretaker": 1,
+          "The Enforcer": 1,
+          "The Skeptic": 1
+        }
+      },
+      {
+        "button": "Focus on consequences",
+        "text": "You prioritize faster investigations and clear penalties. The rule is simple: if you disrupt others’ everyday life, there will be consequences.",
+        "feedback": "The signal becomes clear and predictable. But the climate also tightens, and more people hold back in daily life out of fear of ending up on the wrong side of the system.\n\nCore: Predictable justice through consequences.\nRisk: Fear and caution in everyday life; if the system feels harsh or impersonal, willingness to cooperate and testify may decline.",
+        "image": "crime_judging.jpg",
+        "characters": {
+          "The Enforcer": 2,
+          "The Archivist": 2,
+          "The Burner": 1,
+          "The Pragmatist": 1,
+          "The Trickster": 1
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "Unemployment",
+    "icon": "icon_unemployment.png",
+    "scenario": "Despite available jobs, people remain unemployed. Many are close to the labor market but get stuck in applications, short contracts, or unstable health. You must decide what the path back to work should look like in everyday life.",
+    "options": [
+      {
+        "button": "Activate quickly",
+        "text": "Clear demands, short programs, and rapid measures. The week gains structure: times to keep, tasks to tick off, and something to report.",
+        "feedback": "More people get started and find rhythm in daily life. But it also becomes easy to bounce between measures and short placements without anything becoming stable.\n\nCore: Pace and activity over recovery.\nRisk: Carousel effect; people stay “in the system” but not in work, and motivation wears down through constant restarts.",
+        "image": "unemployment_calendar.jpg",
+        "characters": {
+          "The Enforcer": 2,
+          "The Pragmatist": 2,
+          "The Skeptic": 1,
+          "The Trickster": 1,
+          "The Negotiator": 1
+        }
+      },
+      {
+        "button": "Build security first",
+        "text": "Financial support is combined with a calmer pace and a plan allowed to take time. Stress decreases and more people can restart without panic.",
+        "feedback": "Everyday life becomes more stable and humane. But months may slip by, and the step back can feel larger the longer one waits.\n\nCore: Stability over pressure.\nRisk: Passivity and lost momentum; when time passes without clear milestones, belief in success can fade.",
+        "image": "unemployment_money_time.jpg",
+        "characters": {
+          "The Caretaker": 2,
+          "The Reflector": 2,
+          "The Pragmatist": 1,
+          "The Trickster": 1,
+          "The Enforcer": 1
+        }
+      },
+      {
+        "button": "Invest in matching",
+        "text": "You focus on the right match: goal-oriented internships, guidance, and adapted requirements. When it clicks, it feels almost tailored.",
+        "feedback": "Accuracy improves and more people land in the right place. But not everyone can wait for their perfect match, and those left in the queue quickly feel that time is their most expensive currency.\n\nCore: Right place over quick placement.\nRisk: Queues and exclusion for those who don’t fit immediately; when matching takes time, gaps between the “chosen” and the “waiting” can become harsh.",
+        "image": "unemployment_collegues_match.jpg",
+        "characters": {
+          "The Negotiator": 2,
+          "The Pragmatist": 2,
+          "The Burner": 1,
+          "The Caretaker": 1,
+          "The Trickster": 1
+        }
+      },
+      {
+        "button": "Trust individual drive",
+        "text": "Fewer demands, more freedom, and support to shape one’s own path. People are encouraged to choose pace, direction, and type of work themselves.",
+        "feedback": "For some, it becomes a genuine restart. For others, freedom turns into isolation: days blur together and no one follows up until a very long time has passed.\n\nCore: Autonomy over steering.\nRisk: Invisible stagnation; without support structures, some lose both momentum and confidence, and problems surface late.",
+        "image": "unemployment_self_employed.jpg",
+        "characters": {
+          "The Reflector": 2,
+          "The Trickster": 2,
+          "The Skeptic": 1,
+          "The Burner": 1,
+          "The Enforcer": 1
+        }
+      }
+    ]
+  },
+
+  {
+    "category": "Defense",
+    "icon": "icon_defense.png",
+    "scenario": "The security situation is uncertain. Threats are not always visible, but felt in the background: cyberattacks, disinformation, power outages, and the question of who does what when something unexpected happens. You must decide how safety should be built – even when nothing happens.",
+    "options": [
+      {
+        "button": "Build strong military deterrence",
+        "text": "You invest in capability, rapid response, and clear signals. Strength should prevent conflict and stop threats from even testing boundaries.",
+        "feedback": "It feels safer knowing capacity exists. But threats take up more space in everyday conversations, and news of rearmament makes the world feel closer and harsher.\n\nCore: Deterrence over de-escalation.\nRisk: Normalized anxiety; when security becomes a constant backdrop, stress rises and a sense of crisis can spread even in peacetime.",
+        "image": "defence_military.jpg",
+        "characters": {
+          "The Enforcer": 2,
+          "The Archivist": 2,
+          "The Negotiator": 1,
+          "The Trickster": 1,
+          "The Skeptic": 1
+        }
+      },
+      {
+        "button": "Invest in total defense",
+        "text": "You strengthen civil preparedness: healthcare, transport, food supply, and local routines. Everyone is expected to contribute in some way.",
+        "feedback": "Society feels robust and more people know what to do. But daily life gains more checklists, and cupboards fill with extra water and canned goods that constantly remind people why.\n\nCore: Robust everyday life over convenience.\nRisk: Fatigue and resistance if crisis focus becomes permanent; when preparedness feels like a lifestyle, engagement can fade into routine.",
+        "image": "defence_ambulance.jpg",
+        "characters": {
+          "The Caretaker": 2,
+          "The Negotiator": 2,
+          "The Skeptic": 1,
+          "The Burner": 1,
+          "The Trickster": 1
+        }
+      },
+      {
+        "button": "Prioritize international cooperation",
+        "text": "You build alliances, agreements, and shared security. No one stands alone – as long as everyone sticks together.",
+        "feedback": "It feels stable to be many. But when something shakes, you also wait for others’ decisions, and domestic room for action can feel like it sits on someone else’s meeting agenda.\n\nCore: Shared security over individual control.\nRisk: Dependence and delay; if the world hesitates, uncertainty can grow precisely when speed is needed.",
+        "image": "defence_alliance.jpg",
+        "characters": {
+          "The Reflector": 2,
+          "The Negotiator": 2,
+          "The Pragmatist": 1,
+          "The Skeptic": 1,
+          "The Trickster": 1
+        }
+      },
+      {
+        "button": "Prepare everyday life for crisis",
+        "text": "You invest in information, self-preparedness, and local drills. More people know where the flashlight is, how to power the radio, and who to call.",
+        "feedback": "People feel more ready and practically prepared. But every storm warning and disruption also becomes a reminder of how quickly everyday life can be shaken.\n\nCore: Capacity to act over the illusion of safety.\nRisk: Constant readiness mode; if everything is interpreted as a warning, stress can rise and people become exhausted from always being “on.”",
+        "image": "defence_gear.jpg",
+        "characters": {
+          "The Trickster": 2,
+          "The Pragmatist": 2,
+          "The Burner": 1,
+          "The Archivist": 1,
+          "The Enforcer": 1
+        }
+      }
+    ]
+  }
+]
+
