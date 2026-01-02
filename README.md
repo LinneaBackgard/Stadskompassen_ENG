@@ -1,16 +1,86 @@
-# React + Vite
+# Stadskompassen
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Stadskompassen** is a reflective, educational game that explores how people
+prioritize values when societal decisions require compromise.
 
-Currently, two official plugins are available:
+There are no right or wrong answers.
+The outcome is a **decision profile** designed to support discussion,
+comparison, and reflection on democracy, responsibility, and leadership.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Play here:**  
+https://linneabackgard.github.io/Stadskompassen_ENG/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## What Is Stadskompassen?
 
-## Expanding the ESLint configuration
+Stadskompassen is:
+- a reflection tool
+- a discussion starter
+- a model of value conflicts and compromise
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Stadskompassen is **not**:
+- a test
+- a party alignment quiz
+- a judgment of the individual
+
+---
+
+## How Does the Game Work?
+
+- Players face everyday societal dilemmas (education, safety, climate, etc.)
+- Each option includes both gains and costs
+- Each choice activates multiple values simultaneously
+- Feedback is presented as lived, everyday consequences
+
+After completing the game, players receive a **character profile**
+showing which values they tend to prioritize.
+
+---
+
+## Characters
+
+The characters are **not personality types**.
+They represent value orientations inspired by:
+- Jungian archetypes
+- civic roles
+- real-world decision-making in public organizations
+
+Examples:
+- The Enforcer – order and clarity
+- The Caretaker – care and safety
+- The Reflector – empathy and perspective
+- The Trickster – critical questioning and humor
+- The Burner – urgency and radical change
+
+---
+
+## Educational Use
+
+Stadskompassen can be used in:
+- upper secondary education
+- adult education
+- workshops and discussion groups
+
+Suitable for:
+- group discussion
+- writing assignments
+- comparing perspectives
+- reflecting on democratic decision-making
+
+A downloadable **Teacher Guide (PDF)** is available through the game.
+
+---
+
+## Technology
+
+- Frontend: React + Vite
+- Styling: React Bootstrap
+- Deployment: GitHub Pages
+
+---
+
+## License & Use
+
+This project is intended for educational and non-commercial use.
+Please contact the creator for collaboration or extended use.
