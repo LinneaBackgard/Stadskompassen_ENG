@@ -83,4 +83,4 @@ A downloadable **Teacher Guide (PDF)** is available through the game.
 ## License & Use
 
 This project is intended for educational and non-commercial use.
-Please contact the creator for collaboration or extended use.
+Please contact the creators for collaboration or extended use.
