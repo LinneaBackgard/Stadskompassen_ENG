@@ -5,12 +5,9 @@ export default function Start({ setPage }) {
     return (
         <Container className="py-5 mx-auto" style={{ maxWidth: "1000px" }}>
             <Card className="border border-secondary-subtle p-4">
-                <Card.Title
-                    className="text-center fs-2 mt-3 mb-4"
-                    style={{ color: "#33b9bdff" }}
-                >
-                    Welcome
-                </Card.Title>
+                <p style={{textAlign: "right"}}><a href="https://linneabackgard.github.io/Stadskompassen" style={{ color: "#3465a4" }}>Svenska</a> / English</p>
+                <Card.Title className="text-center fs-2 mt-1 mb-4" style={{color: "#33b9bdff"}}>Stadskompassen</Card.Title>
+                <Card.Text className="fs-5 fw-bold">Welcome!</Card.Text>
 
                 <Card.Text className="fs-5">
                     All societies are shaped by decisions. Some are made in meeting rooms,

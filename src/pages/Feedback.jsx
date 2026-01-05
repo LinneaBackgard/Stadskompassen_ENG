@@ -39,6 +39,10 @@ export default function Feedback({
 
                     <div className="col-md-6">
                         <Card.Body className="p-4 text-start">
+                            <div className="p-4 rounded-2 border mb-4" style={{backgroundColor: "#f0efefff"}}>
+                                <Card.Title className="fs-6" style={{color: "#d09a1dff"}}>Your choice: {option.button}</Card.Title>
+                                <Card.Text className="fs-6">{option.text}</Card.Text>
+                            </div>
                             <Card.Title
                                 className="fs-5 text-center"
                                 style={{ color: "#23a5aaff" }}
@@ -85,7 +89,7 @@ export default function Feedback({
                                 })}
                             </Card.Text>
 
-                            <div className="d-flex justify-content-end mt-3">
+                            <div className="d-flex justify-content-end mt-5">
                                 <button
                                     className="btn"
                                     style={{ backgroundColor: "#72cccf" }}
