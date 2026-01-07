@@ -43,6 +43,8 @@ export default function App() {
             {Page === "result" ?
                 <Result
                     characterScores={characterScores}
+                    setCharacterScores={setCharacterScores}
+                    setPage={setPage}
                 ></Result> : null
             }
         </div>

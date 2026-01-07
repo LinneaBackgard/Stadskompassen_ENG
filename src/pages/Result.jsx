@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import characters from "../data/characters.json";
 import { useState } from "react";
 
-export default function Result({ characterScores }) {
+export default function Result({ characterScores, setCharacterScores, setPage }) {
     let maxKey,
         maxValue = 0;
     for (const [key, value] of Object.entries(characterScores)) {
@@ -97,6 +97,12 @@ export default function Result({ characterScores }) {
                             </Card.Text>
                         ))}
                 </Card.Body>
+            </Card>
+            <Card className="p-4 mt-4">
+                <button className="btn fs-5" style={{backgroundColor: "#fcdc4fff"}} onClick={() => {
+                    setPage("question");
+                    setCharacterScores({});
+                }}>Play again</button>
             </Card>
         </Container>
     );
